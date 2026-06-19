@@ -5,81 +5,89 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=C+%7C+C%2B%2B+Developer;Learning+Python;UI%2FUX+Designer;SQL+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+Python;Building+Projects;Exploring+UI%2FUX;Future+Full-Stack+Developer" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 Computer Science Student
 
-💡 Passionate about problem-solving and designing user-friendly experiences
+💡 Passionate about problem-solving and creating user-friendly experiences
 
-🌱 Currently learning **Python**
+🎨 Strong interest in UI/UX Design
 
-🎨 Strong interest in **UI/UX Design**
+🌱 Currently learning Python
 
-🗄️ Comfortable working with **SQL Databases**
+🗄️ Comfortable with SQL Databases
 
 🚀 Working towards becoming a Full-Stack Developer
 
+📚 Always learning and improving every day
+
 ---
 
-## 🛠️ Skills
+# 🛠 Tech Toolbox
 
 ### Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ### Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Design & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📖 Currently Learning
 
 - Python Programming
 - Data Structures & Algorithms
 - Database Management Systems
 - Software Development Best Practices
+- Advanced UI/UX Design Principles
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Goals
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samruddhimandage&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=samruddhimandage&theme=tokyonight" />
-</p>
-
----
-
-## 🌟 Goals for 2025
-
-- Master Python
 - Build Real-World Projects
-- Strengthen DSA Skills
+- Master Python
+- Improve Problem Solving Skills
 - Contribute to Open Source
 - Create a Personal Portfolio Website
+- Become a Full-Stack Developer
 
 ---
 
-## 🤝 Connect With Me
+# 🌟 Featured Interests
+
+💻 Software Development
+
+🎨 UI/UX Design
+
+🗃️ Databases
+
+📱 User-Centered Design
+
+🌐 Web Technologies
+
+🚀 Continuous Learning
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/samruddhi-mandage-75b3ba332">
@@ -87,27 +95,11 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 </a>
 </p>
 
-🔗 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/samruddhi-mandage-75b3ba332
 
 ---
 
-### ✨ Favorite Quote
-
-> "Success is the sum of small efforts repeated day in and day out."
-
-
-<!--
-**samruddhimandage/samruddhimandage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+✨ Learning, Building, Improving — One Project At A Time ✨
+</p>
