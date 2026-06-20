@@ -10,13 +10,13 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 
 # 👩‍💻 About Me
 
-- 🎓 Third-Year Computer Science Engineering Student
-- 🎨 Passionate about UI/UX Design and creating meaningful user experiences
-- 💡 Interested in building projects that solve real-world problems
-- 🗄️ Have knowledge of SQL and Database Management
-- 🌱 Currently learning Python
-- 🌐 Looking forward to learning Web Development
-- 🚀 Aspiring Software Developer who enjoys learning new technologies and improving problem-solving skills
+-  Third-Year Computer Science Engineering Student
+-  Passionate about UI/UX Design and creating meaningful user experiences
+-  Interested in building projects that solve real-world problems
+-  Have knowledge of SQL and Database Management
+-  Currently learning Python
+-  Looking forward to learning Web Development
+-  Aspiring Software Developer who enjoys learning new technologies and improving problem-solving skills
 
 ---
 
@@ -56,5 +56,5 @@ https://www.linkedin.com/in/samruddhi-mandage-75b3ba332
 ---
 
 <p align="center">
-✨ "Learning, Building, and Growing — One Step at a Time." ✨
+ "Learning, Building, and Growing — One Step at a Time." 
 </p>
