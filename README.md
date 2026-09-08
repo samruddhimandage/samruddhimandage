@@ -15,7 +15,6 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 -  Interested in building projects that solve real-world problems
 -  Have knowledge of SQL and Database Management
 -  Currently learning Python
--  Looking forward to learning Web Development
 -  Aspiring Software Developer who enjoys learning new technologies and improving problem-solving skills
 
 ---
