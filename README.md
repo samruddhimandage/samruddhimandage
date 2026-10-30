@@ -8,7 +8,7 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 -  Third-Year Computer Science Engineering Student
 -  Passionate about UI/UX Design and creating meaningful user experiences
@@ -19,7 +19,7 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 
 ---
 
-# 🛠️ Skills
+#  Skills
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,figma,git,github,vscode" />
@@ -43,7 +43,7 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <a href="https://www.linkedin.com/in/samruddhi-mandage-75b3ba332">
 <img src="https://skillicons.dev/icons?i=linkedin" />
