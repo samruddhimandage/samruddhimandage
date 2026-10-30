@@ -10,7 +10,7 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 
 #  About Me
 
--  Third-Year Computer Science Engineering Student
+-  Computer Science Engineering Student
 -  Passionate about UI/UX Design and creating meaningful user experiences
 -  Interested in building projects that solve real-world problems
 -  Have knowledge of SQL and Database Management
@@ -29,17 +29,21 @@ Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
 - C
 - C++
 - Java
-- Python (Learning)
+- Python
+- Java Script
 
 ### Database
 - SQL
 - MySQL
+- MongoDB
 
 ### Design & Tools
 - UI/UX Design
 - Figma
 - GitHub
 - VS Code
+- Anaconda
+- Google Colab
 
 ---
 
