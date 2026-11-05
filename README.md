@@ -1,63 +1,67 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+ ! +I'm+Samruddhi+Mandage" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Samruddhi+Mandage" alt="Introduction" />
 </p>
 
 <h3 align="center">
-Computer Science Student | UI/UX Enthusiast | Aspiring Software Developer
+  Computer Science Engineering Student | UI/UX Enthusiast | Aspiring Software Developer
 </h3>
 
 ---
 
-#  About Me
+## About Me
 
--  Computer Science Engineering Student
--  Passionate about UI/UX Design and creating meaningful user experiences
--  Interested in building projects that solve real-world problems
--  Have knowledge of SQL and Database Management
--  Currently learning Python
--  Aspiring Software Developer who enjoys learning new technologies and improving problem-solving skills
+- Computer Science Engineering student with an interest in software development.
+- Passionate about UI/UX design and creating intuitive user experiences.
+- Interested in developing projects that address real-world problems.
+- Familiar with SQL and Database Management Systems.
+- Currently learning Python.
+- Continuously improving my technical knowledge and problem-solving skills.
 
 ---
 
-#  Skills
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,figma,git,github,vscode" />
-</p>
+## Technical Skills
 
 ### Programming Languages
 - C
 - C++
 - Java
 - Python
-- Java Script
+- JavaScript
 
-### Database
+### Database Technologies
 - SQL
 - MySQL
 - MongoDB
 
-### Design & Tools
+### Design and Development Tools
 - UI/UX Design
 - Figma
+- Git
 - GitHub
-- VS Code
+- Visual Studio Code
 - Anaconda
 - Google Colab
 
+### Technologies and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,figma,git,github,vscode" alt="Technical Skills" />
+</p>
+
 ---
 
-# Connect With Me
+## Connect With Me
 
-<a href="https://www.linkedin.com/in/samruddhi-mandage-75b3ba332">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/samruddhi-mandage-75b3ba332" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
 
-**LinkedIn:**  
-https://www.linkedin.com/in/samruddhi-mandage-75b3ba332
+**LinkedIn:** [Samruddhi Mandage](https://www.linkedin.com/in/samruddhi-mandage-75b3ba332)
 
 ---
 
 <p align="center">
- "Learning, Building, and Growing — One Step at a Time." 
+  "Learning, Building, and Growing — One Step at a Time."
 </p>
