@@ -8,17 +8,6 @@
 
 ---
 
-## About Me
-
-- Computer Science Engineering student with an interest in software development.
-- Passionate about UI/UX design and creating intuitive user experiences.
-- Interested in developing projects that address real-world problems.
-- Familiar with SQL and Database Management Systems.
-- Currently learning Python.
-- Continuously improving my technical knowledge and problem-solving skills.
-
----
-
 ## Technical Skills
 
 ### Programming Languages
